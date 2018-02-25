@@ -35,6 +35,7 @@ bio: "System Administrator from Murcia. In love with games, music and technology
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
+
  front-end:
   - name: HTML 5
     level: 4
