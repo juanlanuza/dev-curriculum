@@ -35,21 +35,7 @@ bio: "System Administrator from Murcia. In love with games, music and technology
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
-windows server:
-  - name: Active Directory
-    level: 3
-  - name:  Dhcp
-    level: 3
-  - name: Dns
-    level: 3
-  - name: GPO
-    level: 3
-  - name: File Server
-    level: 4
-  - name: Deploy Windows
-    level: 2
-
-  front-end:
+ front-end:
   - name: HTML 5
     level: 4
   - name: CSS 3
